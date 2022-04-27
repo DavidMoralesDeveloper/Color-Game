@@ -1,2 +1,12 @@
-# Color-Game
-Es un juego basico usando JavaScript HTML y CSS poniendo en practica las funciones y el DOM en JS
+
+# Color Game
+
+Es un juego basico usando HTML, CSS y JavaScript.
+Poniendo en practica funciones y el DOM en JS.
+
+El juego consiste en que debes deducir el  que te pinta en RGB
+
+
+
+![Logo](https://i.stack.imgur.com/VKubA.png)
+
