@@ -8,5 +8,5 @@ El juego consiste en que debes deducir el  que te pinta en RGB
 
 
 
-![Logo](https://i.stack.imgur.com/VKubA.png)
+![Logo]([![color-game.png](https://i.postimg.cc/zGSxYZjP/color-game.png)](https://postimg.cc/gxjV371v))
 
